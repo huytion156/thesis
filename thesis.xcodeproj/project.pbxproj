@@ -28,6 +28,7 @@
 		126FC82A228AB5B500318BAB /* Text.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Text.txt; sourceTree = "<group>"; };
 		126FC82B228B270100318BAB /* example_dict.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = example_dict.txt; sourceTree = "<group>"; };
 		126FC82C228EA1C500318BAB /* res.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = res.txt; sourceTree = "<group>"; };
+		126FC82D2293A36C00318BAB /* Text-origin.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Text-origin.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				126FC82C228EA1C500318BAB /* res.txt */,
+				126FC82D2293A36C00318BAB /* Text-origin.txt */,
 				126FC82A228AB5B500318BAB /* Text.txt */,
 				126FC82B228B270100318BAB /* example_dict.txt */,
 				126FC822228AAF6300318BAB /* main.cpp */,
